@@ -9,4 +9,5 @@ def escreveCabecalho(mensagem):
 escreveCabecalho("Perguntas - Nome e idade")
 nome = input("Escreva seu nome: ")
 idade = input("Escreva sua idade: ")
+
 print(f"Seu nome é: {nome} e sua idade: {idade}")
